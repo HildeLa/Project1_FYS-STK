@@ -1,1 +1,1 @@
-Here is a jupyter notebook file and a pdf file arwering the tasks given in project 1
+A jupyter notebook file and a pdf file answering the tasks given in project 1
