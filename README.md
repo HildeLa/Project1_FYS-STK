@@ -1,1 +1,1 @@
-A jupyter notebook file and a pdf file answering the tasks given in project 1. The code that attempts to answer the tasks given can be found in the jupyter notebook file Prosjekt1.ipynb. The project report can be found as Project_1___FYS_STK4155.pdf.
+A jupyter notebook file and a pdf file answering the tasks given in project 1. The code that attempts to answer the tasks given can be found in the jupyter notebook file Prosjekt1.ipynb. The project report can be found as Project1_FYS_STK4155.pdf.
